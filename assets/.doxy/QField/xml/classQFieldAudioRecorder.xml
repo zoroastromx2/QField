@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="classQFieldAudioRecorder" kind="class" language="C++" prot="public">
+    <compoundname>QFieldAudioRecorder</compoundname>
+    <basecompoundref refid="classQfAudioRecorder" prot="public" virt="non-virtual">QfAudioRecorder</basecompoundref>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>Popup</label>
+      </node>
+      <node id="1">
+        <label>QFieldAudioRecorder</label>
+        <link refid="classQFieldAudioRecorder"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>QMediaRecorder</label>
+      </node>
+      <node id="2">
+        <label>QfAudioRecorder</label>
+        <link refid="classQfAudioRecorder"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>QfPopup</label>
+        <link refid="classQfPopup"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="5">
+        <label>Popup</label>
+      </node>
+      <node id="1">
+        <label>QFieldAudioRecorder</label>
+        <link refid="classQFieldAudioRecorder"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>QMediaRecorder</label>
+      </node>
+      <node id="2">
+        <label>QfAudioRecorder</label>
+        <link refid="classQfAudioRecorder"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>QfPopup</label>
+        <link refid="classQfPopup"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="src/app/qml_compat/QFieldAudioRecorder.qml" line="2" column="1" bodyfile="src/app/qml_compat/QFieldAudioRecorder.qml" bodystart="2" bodyend="3"/>
+    <listofallmembers>
+      <member refid="classQfAudioRecorder_1a0f1a31fd3468b0e0a7cc4558c55711f6" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>canceled</name></member>
+      <member refid="classQfAudioRecorder_1a2aae795d42ea8842ef07e53f32864a3a" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>finished</name></member>
+      <member refid="classQfAudioRecorder_1accd8d35fcbacce9cd5fde638c2ea00fb" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>hasLevel</name></member>
+      <member refid="classQfAudioRecorder_1ad8ffcb30e4d2523e8bc648e67f2df0ab" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>hasLevel</name></member>
+      <member refid="classQfAudioRecorder_1aa22996ddf18f09d2184bd9df9790cc1e" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>hasLevelChanged</name></member>
+      <member refid="classQfAudioRecorder_1ac387d452965c23c9fe4dc2a7ce69942d" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>hasRecordedClip</name></member>
+      <member refid="classQfAudioRecorder_1a077fa85c1b956beeccca4489cfa30718" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>level</name></member>
+      <member refid="classQfAudioRecorder_1a769c4bedeb1f0afc6ceadd2e0b7b468b" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>level</name></member>
+      <member refid="classQfAudioRecorder_1a9f2276aa5405e9c20a59d78b891eeef9" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>levelChanged</name></member>
+      <member refid="classQfAudioRecorder_1ab87ee1c758059380a2f5bd3c9ad7d539" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>popupWidth</name></member>
+      <member refid="classQfAudioRecorder_1afb1cd5ad6bb441b27d29fdcb64dd73e8" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>preRecording</name></member>
+      <member refid="classQfAudioRecorder_1a3bc32ee7a56c8810af30be528c7cbce9" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>QfAudioRecorder</name></member>
+      <member refid="classQfAudioRecorder_1afc1ad06519c72f9f263ff368111577a9" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>recording</name></member>
+      <member refid="classQfAudioRecorder_1a3e7139574b41a63ec68c51f5d68e42b3" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>recording</name></member>
+      <member refid="classQfAudioRecorder_1a13bf6e7be1822524629d1da2b55356ad" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>recordingChanged</name></member>
+      <member refid="classQfAudioRecorder_1adee6c6d3157477e4d13f563bff1528ee" prot="public" virt="non-virtual"><scope>QFieldAudioRecorder</scope><name>recordingLoaded</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

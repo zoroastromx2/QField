@@ -1,0 +1,1769 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="classQfSettings" kind="class" language="C++" prot="public">
+    <compoundname>QfSettings</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Page</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">QSettings</basecompoundref>
+    <sectiondef kind="property">
+      <memberdef kind="property" id="classQfSettings_1aabddf0e7512fdc0364b5d6bfa9ba2db2" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::currentPanel</definition>
+        <argsstring></argsstring>
+        <name>currentPanel</name>
+        <qualifiedname>QfSettings::currentPanel</qualifiedname>
+        <read>dummyGetter_currentPanel_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="15" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1ad4f77be1d2d534f00ae32694f2570fa5" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::showScaleBar</definition>
+        <argsstring></argsstring>
+        <name>showScaleBar</name>
+        <qualifiedname>QfSettings::showScaleBar</qualifiedname>
+        <read>dummyGetter_showScaleBar_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="17" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1ad77bfabc0d2a66e6ab2b401dd557f77a" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::showZoomControls</definition>
+        <argsstring></argsstring>
+        <name>showZoomControls</name>
+        <qualifiedname>QfSettings::showZoomControls</qualifiedname>
+        <read>dummyGetter_showZoomControls_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="19" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a1b0dfa48d241ce7e72798f896cf2fd22" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::fullScreenIdentifyView</definition>
+        <argsstring></argsstring>
+        <name>fullScreenIdentifyView</name>
+        <qualifiedname>QfSettings::fullScreenIdentifyView</qualifiedname>
+        <read>dummyGetter_fullScreenIdentifyView_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="21" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a70a0aceee5f5c92bdc2378c4c118ed49" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::locatorKeepScale</definition>
+        <argsstring></argsstring>
+        <name>locatorKeepScale</name>
+        <qualifiedname>QfSettings::locatorKeepScale</qualifiedname>
+        <read>dummyGetter_locatorKeepScale_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="23" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a951cd9e7f77e97d763702a673ee09996" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::autoOpenFormSingleIdentify</definition>
+        <argsstring></argsstring>
+        <name>autoOpenFormSingleIdentify</name>
+        <qualifiedname>QfSettings::autoOpenFormSingleIdentify</qualifiedname>
+        <read>dummyGetter_autoOpenFormSingleIdentify_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="25" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1ac84612f80bd3f04daa8fb01ae9ab8fc4" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::autoZoomToIdentifiedFeature</definition>
+        <argsstring></argsstring>
+        <name>autoZoomToIdentifiedFeature</name>
+        <qualifiedname>QfSettings::autoZoomToIdentifiedFeature</qualifiedname>
+        <read>dummyGetter_autoZoomToIdentifiedFeature_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="27" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a3731d908a7c5f5e29fbd5c381e6d5042" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::numericalDigitizingInformation</definition>
+        <argsstring></argsstring>
+        <name>numericalDigitizingInformation</name>
+        <qualifiedname>QfSettings::numericalDigitizingInformation</qualifiedname>
+        <read>dummyGetter_numericalDigitizingInformation_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="29" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a261271064a9526b923eb672c8f77371a" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::showBookmarks</definition>
+        <argsstring></argsstring>
+        <name>showBookmarks</name>
+        <qualifiedname>QfSettings::showBookmarks</qualifiedname>
+        <read>dummyGetter_showBookmarks_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="31" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a5dfc906a8b84c30f6656d4e9a3c15de0" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::nativeCamera2</definition>
+        <argsstring></argsstring>
+        <name>nativeCamera2</name>
+        <qualifiedname>QfSettings::nativeCamera2</qualifiedname>
+        <read>dummyGetter_nativeCamera2_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="33" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a064327f21a2b819bf5495d4404c64a4d" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::digitizingVolumeKeys</definition>
+        <argsstring></argsstring>
+        <name>digitizingVolumeKeys</name>
+        <qualifiedname>QfSettings::digitizingVolumeKeys</qualifiedname>
+        <read>dummyGetter_digitizingVolumeKeys_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="35" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a6689b65044fbc942324a5691e11998f3" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::autoSave</definition>
+        <argsstring></argsstring>
+        <name>autoSave</name>
+        <qualifiedname>QfSettings::autoSave</qualifiedname>
+        <read>dummyGetter_autoSave_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="37" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1ae3e2ed2f4cbfb42fba2b7a8ae46eb01e" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::fingerTapDigitizing</definition>
+        <argsstring></argsstring>
+        <name>fingerTapDigitizing</name>
+        <qualifiedname>QfSettings::fingerTapDigitizing</qualifiedname>
+        <read>dummyGetter_fingerTapDigitizing_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="39" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a3ab345f5e3473c322e83d6721a59b5d0" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::mouseAsTouchScreen</definition>
+        <argsstring></argsstring>
+        <name>mouseAsTouchScreen</name>
+        <qualifiedname>QfSettings::mouseAsTouchScreen</qualifiedname>
+        <read>dummyGetter_mouseAsTouchScreen_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="41" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1abc2c2b5b2e82c045ccd6032ce933cef8" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::enableInfoCollection</definition>
+        <argsstring></argsstring>
+        <name>enableInfoCollection</name>
+        <qualifiedname>QfSettings::enableInfoCollection</qualifiedname>
+        <read>dummyGetter_enableInfoCollection_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="43" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a347f5065068f6a4cd48234cd0b5be4fe" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::enableMapRotation</definition>
+        <argsstring></argsstring>
+        <name>enableMapRotation</name>
+        <qualifiedname>QfSettings::enableMapRotation</qualifiedname>
+        <read>dummyGetter_enableMapRotation_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="45" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1ad20534f3ee08913203e4b504e98a7b76" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::quality</definition>
+        <argsstring></argsstring>
+        <name>quality</name>
+        <qualifiedname>QfSettings::quality</qualifiedname>
+        <read>dummyGetter_quality_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="47" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a53b64da73b4e54c4bce855451f846a0b" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::previewJobsEnabled</definition>
+        <argsstring></argsstring>
+        <name>previewJobsEnabled</name>
+        <qualifiedname>QfSettings::previewJobsEnabled</qualifiedname>
+        <read>dummyGetter_previewJobsEnabled_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="49" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1ad8c1cc4c16aa723669b0d2d7481fe44b" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::snapToCommonAngleIsEnabled</definition>
+        <argsstring></argsstring>
+        <name>snapToCommonAngleIsEnabled</name>
+        <qualifiedname>QfSettings::snapToCommonAngleIsEnabled</qualifiedname>
+        <read>dummyGetter_snapToCommonAngleIsEnabled_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="51" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a7525298c6a31b880e81ce58af6b015b4" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::snapToCommonAngleIsRelative</definition>
+        <argsstring></argsstring>
+        <name>snapToCommonAngleIsRelative</name>
+        <qualifiedname>QfSettings::snapToCommonAngleIsRelative</qualifiedname>
+        <read>dummyGetter_snapToCommonAngleIsRelative_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="53" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a5e7be234721e1e5bb596ba45ea7928a1" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::snapToCommonAngleDegrees</definition>
+        <argsstring></argsstring>
+        <name>snapToCommonAngleDegrees</name>
+        <qualifiedname>QfSettings::snapToCommonAngleDegrees</qualifiedname>
+        <read>dummyGetter_snapToCommonAngleDegrees_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="55" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1adce239f59ceaa659719be7c12e50623e" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>alias</type>
+        <definition>alias QfSettings::snapToCommonAngleTolerance</definition>
+        <argsstring></argsstring>
+        <name>snapToCommonAngleTolerance</name>
+        <qualifiedname>QfSettings::snapToCommonAngleTolerance</qualifiedname>
+        <read>dummyGetter_snapToCommonAngleTolerance_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="57" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1aa3468b4361496beb1ce3769ee318dd15" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool QfSettings::proxyEnabled</definition>
+        <argsstring></argsstring>
+        <name>proxyEnabled</name>
+        <qualifiedname>QfSettings::proxyEnabled</qualifiedname>
+        <read>dummyGetter_proxyEnabled_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="59" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a262cb4e3c22b57480380a9e9b89f9a43" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string QfSettings::proxyType</definition>
+        <argsstring></argsstring>
+        <name>proxyType</name>
+        <qualifiedname>QfSettings::proxyType</qualifiedname>
+        <read>dummyGetter_proxyType_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="61" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a41c48c775a23260bf7ca3a059608f4fc" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string QfSettings::proxyHost</definition>
+        <argsstring></argsstring>
+        <name>proxyHost</name>
+        <qualifiedname>QfSettings::proxyHost</qualifiedname>
+        <read>dummyGetter_proxyHost_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="63" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a64e315d0783b3761591878450147f54c" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int QfSettings::proxyPort</definition>
+        <argsstring></argsstring>
+        <name>proxyPort</name>
+        <qualifiedname>QfSettings::proxyPort</qualifiedname>
+        <read>dummyGetter_proxyPort_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="65" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1abc48f48cd81074bd88a37199647855e6" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string QfSettings::proxyUser</definition>
+        <argsstring></argsstring>
+        <name>proxyUser</name>
+        <qualifiedname>QfSettings::proxyUser</qualifiedname>
+        <read>dummyGetter_proxyUser_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="67" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1a7796fbeef4aaf0016551a9efb2920a3e" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string QfSettings::proxyPassword</definition>
+        <argsstring></argsstring>
+        <name>proxyPassword</name>
+        <qualifiedname>QfSettings::proxyPassword</qualifiedname>
+        <read>dummyGetter_proxyPassword_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="69" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1aa0901b82553139be20a90bb9a73bd180" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string QfSettings::proxyExcludedUrls</definition>
+        <argsstring></argsstring>
+        <name>proxyExcludedUrls</name>
+        <qualifiedname>QfSettings::proxyExcludedUrls</qualifiedname>
+        <read>dummyGetter_proxyExcludedUrls_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="71" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classQfSettings_1af7a040db802d444eb12670f0763c430d" prot="public" static="no" readable="yes" writable="no" gettable="no" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool QfSettings::proxySettingsLoaded</definition>
+        <argsstring></argsstring>
+        <name>proxySettingsLoaded</name>
+        <qualifiedname>QfSettings::proxySettingsLoaded</qualifiedname>
+        <read>dummyGetter_proxySettingsLoaded_ignore</read>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="73" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="73" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classQfSettings_1ab554a527f67ea08d16ccb2b69411f4ca" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::onProxyEnabledChanged</definition>
+        <argsstring></argsstring>
+        <name>onProxyEnabledChanged</name>
+        <qualifiedname>QfSettings::onProxyEnabledChanged</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="75" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ab3fc4d32d9a6dff80e7457eaa5b766a6" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::onProxyTypeChanged</definition>
+        <argsstring></argsstring>
+        <name>onProxyTypeChanged</name>
+        <qualifiedname>QfSettings::onProxyTypeChanged</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="76" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="76" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ad49132fc95bf356aa46fb75a0ce6ffa4" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::onProxyHostChanged</definition>
+        <argsstring></argsstring>
+        <name>onProxyHostChanged</name>
+        <qualifiedname>QfSettings::onProxyHostChanged</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="77" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1aa1636f74c0dc836ba7a5e41ae19d6945" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::onProxyPortChanged</definition>
+        <argsstring></argsstring>
+        <name>onProxyPortChanged</name>
+        <qualifiedname>QfSettings::onProxyPortChanged</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="78" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a72cc1a10e1301b8cc7841054627c847c" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::onProxyUserChanged</definition>
+        <argsstring></argsstring>
+        <name>onProxyUserChanged</name>
+        <qualifiedname>QfSettings::onProxyUserChanged</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="79" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1af011fb831f2a1bb16173605bfbf3fcea" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::onProxyPasswordChanged</definition>
+        <argsstring></argsstring>
+        <name>onProxyPasswordChanged</name>
+        <qualifiedname>QfSettings::onProxyPasswordChanged</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="80" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a17bbc5db92e95cc2b67d2ca4545448b1" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::onProxyExcludedUrlsChanged</definition>
+        <argsstring></argsstring>
+        <name>onProxyExcludedUrlsChanged</name>
+        <qualifiedname>QfSettings::onProxyExcludedUrlsChanged</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="81" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a0b44e77c08fc704b96c4ef286455187e" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::leftPadding</definition>
+        <argsstring></argsstring>
+        <name>leftPadding</name>
+        <qualifiedname>QfSettings::leftPadding</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="82" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a9ee0b03688addefa45eac249c8001aa2" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::rightPadding</definition>
+        <argsstring></argsstring>
+        <name>rightPadding</name>
+        <qualifiedname>QfSettings::rightPadding</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="83" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ab582d0d890a8709c1ca1c3074bf583ad" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::visible</definition>
+        <argsstring></argsstring>
+        <name>visible</name>
+        <qualifiedname>QfSettings::visible</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="84" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a297c455a36fb516ffced09469884319a" prot="private" static="no" mutable="no">
+        <type>var</type>
+        <definition>var QfSettings::focus</definition>
+        <argsstring></argsstring>
+        <name>focus</name>
+        <qualifiedname>QfSettings::focus</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="85" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1aeaf2c7e76572f5993ba27acc923f9d9b" prot="private" static="no" mutable="no">
+        <type>var Component</type>
+        <definition>var Component QfSettings::onCompleted</definition>
+        <argsstring></argsstring>
+        <name>onCompleted</name>
+        <qualifiedname>QfSettings::onCompleted</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="86" column="14" bodyfile="src/app/qml/QfSettings.qml" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ad77a2755163aa027e60c374e781a1263" prot="private" static="no" mutable="no">
+        <type>Settings</type>
+        <definition>Settings QfSettings::registry</definition>
+        <argsstring></argsstring>
+        <name>registry</name>
+        <qualifiedname>QfSettings::registry</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="93" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a45495bcb775ae516e3aa297b724cf859" prot="private" static="no" mutable="no">
+        <type>ListModel</type>
+        <definition>ListModel QfSettings::canvasSettingsModel</definition>
+        <argsstring></argsstring>
+        <name>canvasSettingsModel</name>
+        <qualifiedname>QfSettings::canvasSettingsModel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="94" column="11" bodyfile="src/app/qml/QfSettings.qml" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a968e1b032639a6a455305d367775b5cf" prot="private" static="no" mutable="no">
+        <type>ListModel</type>
+        <definition>ListModel QfSettings::digitizingEditingSettingsModel</definition>
+        <argsstring></argsstring>
+        <name>digitizingEditingSettingsModel</name>
+        <qualifiedname>QfSettings::digitizingEditingSettingsModel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="95" column="11" bodyfile="src/app/qml/QfSettings.qml" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ac879021fab4304ec609288d0482bc078" prot="private" static="no" mutable="no">
+        <type>ListModel</type>
+        <definition>ListModel QfSettings::interfaceSettingsModel</definition>
+        <argsstring></argsstring>
+        <name>interfaceSettingsModel</name>
+        <qualifiedname>QfSettings::interfaceSettingsModel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="96" column="11" bodyfile="src/app/qml/QfSettings.qml" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a98baa0a5dd6b72e994bad33463621dbc" prot="private" static="no" mutable="no">
+        <type>ListModel</type>
+        <definition>ListModel QfSettings::advancedSettingsModel</definition>
+        <argsstring></argsstring>
+        <name>advancedSettingsModel</name>
+        <qualifiedname>QfSettings::advancedSettingsModel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="97" column="11" bodyfile="src/app/qml/QfSettings.qml" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1aae1e6ae8d28ae77bd21bebcdd8d0a450" prot="private" static="no" mutable="no">
+        <type>ColumnLayout</type>
+        <definition>ColumnLayout QfSettings::barColumn</definition>
+        <argsstring></argsstring>
+        <name>barColumn</name>
+        <qualifiedname>QfSettings::barColumn</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="98" column="14" bodyfile="src/app/qml/QfSettings.qml" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a7413f638e36232eeedf7bcf8833e16db" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTabBar" kindref="compound">QfTabBar</ref></type>
+        <definition>QfTabBar QfSettings::bar</definition>
+        <argsstring></argsstring>
+        <name>bar</name>
+        <qualifiedname>QfSettings::bar</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="99" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a5b4bc1712edc4a131898aa54e9701412" prot="private" static="no" mutable="no">
+        <type>Component</type>
+        <definition>Component QfSettings::listItem</definition>
+        <argsstring></argsstring>
+        <name>listItem</name>
+        <qualifiedname>QfSettings::listItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="100" column="11" bodyfile="src/app/qml/QfSettings.qml" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a2b6e212782fd893c25e4c2f2646c972d" prot="private" static="no" mutable="no">
+        <type>Row</type>
+        <definition>Row QfSettings::line</definition>
+        <argsstring></argsstring>
+        <name>line</name>
+        <qualifiedname>QfSettings::line</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="101" column="5" bodyfile="src/app/qml/QfSettings.qml" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ae746d1d712fd45b15dc7c67362f12724" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::toggle</definition>
+        <argsstring></argsstring>
+        <name>toggle</name>
+        <qualifiedname>QfSettings::toggle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="102" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a426003c8e46552f39b2b4ef2b4151b21" prot="private" static="no" mutable="no">
+        <type>SwipeView</type>
+        <definition>SwipeView QfSettings::swipeView</definition>
+        <argsstring></argsstring>
+        <name>swipeView</name>
+        <qualifiedname>QfSettings::swipeView</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="103" column="11" bodyfile="src/app/qml/QfSettings.qml" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a74d672bedd2bf83131606f6aa03911d6" prot="private" static="no" mutable="no">
+        <type>ColumnLayout</type>
+        <definition>ColumnLayout QfSettings::generalSettingsGrid</definition>
+        <argsstring></argsstring>
+        <name>generalSettingsGrid</name>
+        <qualifiedname>QfSettings::generalSettingsGrid</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="104" column="14" bodyfile="src/app/qml/QfSettings.qml" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a4da700b1ccc776b0c01aba0de4632c26" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::renderingQualityComboBox</definition>
+        <argsstring></argsstring>
+        <name>renderingQualityComboBox</name>
+        <qualifiedname>QfSettings::renderingQualityComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="105" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a3c9580d96aeb4900de7bd6c8fcfc9eb2" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfToolButton" kindref="compound">QfToolButton</ref></type>
+        <definition>QfToolButton QfSettings::showSearchBarSettings</definition>
+        <argsstring></argsstring>
+        <name>showSearchBarSettings</name>
+        <qualifiedname>QfSettings::showSearchBarSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="106" column="14" bodyfile="src/app/qml/QfSettings.qml" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ad2da26ce703b6833a232b53d9a0488e4" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfToolButton" kindref="compound">QfToolButton</ref></type>
+        <definition>QfToolButton QfSettings::showPluginManagerSettings</definition>
+        <argsstring></argsstring>
+        <name>showPluginManagerSettings</name>
+        <qualifiedname>QfSettings::showPluginManagerSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="107" column="14" bodyfile="src/app/qml/QfSettings.qml" bodystart="107" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a1f94cdf0f5dcbd7d54f6da6aa4b29b12" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSlider" kindref="compound">QfSlider</ref></type>
+        <definition>QfSlider QfSettings::slider</definition>
+        <argsstring></argsstring>
+        <name>slider</name>
+        <qualifiedname>QfSettings::slider</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="108" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="108" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a857f07d8b87b4fe3b88dc321623668c3" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::appearanceComboBox</definition>
+        <argsstring></argsstring>
+        <name>appearanceComboBox</name>
+        <qualifiedname>QfSettings::appearanceComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="109" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="109" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a2adcf57783ca9a7aa7aa36d1b5448b11" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::fontScaleComboBox</definition>
+        <argsstring></argsstring>
+        <name>fontScaleComboBox</name>
+        <qualifiedname>QfSettings::fontScaleComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="110" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1af01878d6b214a53dee0b248186359812" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::languageComboBox</definition>
+        <argsstring></argsstring>
+        <name>languageComboBox</name>
+        <qualifiedname>QfSettings::languageComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="111" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1aa8874054c603da9cd3bd6575c9afd739" prot="private" static="no" mutable="no">
+        <type>ListView</type>
+        <definition>ListView QfSettings::authenticationConfigurationsListView</definition>
+        <argsstring></argsstring>
+        <name>authenticationConfigurationsListView</name>
+        <qualifiedname>QfSettings::authenticationConfigurationsListView</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="112" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ab0f3e76f2e77229fad5882b7f5489ec8" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::proxyEnabledSwitch</definition>
+        <argsstring></argsstring>
+        <name>proxyEnabledSwitch</name>
+        <qualifiedname>QfSettings::proxyEnabledSwitch</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="113" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="113" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a8d136e9b54eea145c18f035313259a1d" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::proxyTypeComboBox</definition>
+        <argsstring></argsstring>
+        <name>proxyTypeComboBox</name>
+        <qualifiedname>QfSettings::proxyTypeComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="114" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="114" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a75a272303acb24cd4e0c733e786ac5c8" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::proxyHostField</definition>
+        <argsstring></argsstring>
+        <name>proxyHostField</name>
+        <qualifiedname>QfSettings::proxyHostField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="115" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="115" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a2fe9aa9c8a999c76fec272649d10a6f0" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::proxyPortField</definition>
+        <argsstring></argsstring>
+        <name>proxyPortField</name>
+        <qualifiedname>QfSettings::proxyPortField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="116" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a97dbc83b659acc834cb4939d0999b1a0" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::proxyUserField</definition>
+        <argsstring></argsstring>
+        <name>proxyUserField</name>
+        <qualifiedname>QfSettings::proxyUserField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="117" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="117" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1aa05961ca4b664ad370878a8a448a6591" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::proxyPasswordField</definition>
+        <argsstring></argsstring>
+        <name>proxyPasswordField</name>
+        <qualifiedname>QfSettings::proxyPasswordField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="118" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a5f7a512445d1c5809a41bb27e01c19a9" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::proxyExcludedUrlsField</definition>
+        <argsstring></argsstring>
+        <name>proxyExcludedUrlsField</name>
+        <qualifiedname>QfSettings::proxyExcludedUrlsField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="119" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="119" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a548f4c1d4a8bca1db5441bec5e491692" prot="private" static="no" mutable="no">
+        <type>ColumnLayout</type>
+        <definition>ColumnLayout QfSettings::positioningGrid</definition>
+        <argsstring></argsstring>
+        <name>positioningGrid</name>
+        <qualifiedname>QfSettings::positioningGrid</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="120" column="14" bodyfile="src/app/qml/QfSettings.qml" bodystart="120" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a6a57a9f620a16cce3880983403d7a281" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::positioningDeviceComboBox</definition>
+        <argsstring></argsstring>
+        <name>positioningDeviceComboBox</name>
+        <qualifiedname>QfSettings::positioningDeviceComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="121" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="121" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a00e48796573e142f89be582df9ff2b7d" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfButton" kindref="compound">QfButton</ref></type>
+        <definition>QfButton QfSettings::connectButton</definition>
+        <argsstring></argsstring>
+        <name>connectButton</name>
+        <qualifiedname>QfSettings::connectButton</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="122" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="122" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a7b7522e7b4f9018e3f0677fbdb7bef42" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfToolButton" kindref="compound">QfToolButton</ref></type>
+        <definition>QfToolButton QfSettings::showNtripSettings</definition>
+        <argsstring></argsstring>
+        <name>showNtripSettings</name>
+        <qualifiedname>QfSettings::showNtripSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="123" column="14" bodyfile="src/app/qml/QfSettings.qml" bodystart="123" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1aa44cec1ee951003c018f8cf9f5239ef1" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::enableNtripClient</definition>
+        <argsstring></argsstring>
+        <name>enableNtripClient</name>
+        <qualifiedname>QfSettings::enableNtripClient</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="124" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="124" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a5f426c77cbcbaaa0cea0a9e0d8032971" prot="private" static="no" mutable="no">
+        <type>GridLayout</type>
+        <definition>GridLayout QfSettings::ntripFeedbackLayout</definition>
+        <argsstring></argsstring>
+        <name>ntripFeedbackLayout</name>
+        <qualifiedname>QfSettings::ntripFeedbackLayout</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="125" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="125" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a286d952a68cde50fe0d5b00e583def3b" prot="private" static="no" mutable="no">
+        <type>Rectangle</type>
+        <definition>Rectangle QfSettings::ntripIndicator</definition>
+        <argsstring></argsstring>
+        <name>ntripIndicator</name>
+        <qualifiedname>QfSettings::ntripIndicator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="126" column="11" bodyfile="src/app/qml/QfSettings.qml" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ab8c90ba89ba8fcf3438a78a2b20f3d89" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::showPositionInformation</definition>
+        <argsstring></argsstring>
+        <name>showPositionInformation</name>
+        <qualifiedname>QfSettings::showPositionInformation</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="127" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1af2769197926a5575ba1846c7a90b48df" prot="private" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label QfSettings::positionFollowModeLabel</definition>
+        <argsstring></argsstring>
+        <name>positionFollowModeLabel</name>
+        <qualifiedname>QfSettings::positionFollowModeLabel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="128" column="7" bodyfile="src/app/qml/QfSettings.qml" bodystart="128" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a8d17dd02b165a37a6c3b02c38ac65349" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::positionFollowModeComboBox</definition>
+        <argsstring></argsstring>
+        <name>positionFollowModeComboBox</name>
+        <qualifiedname>QfSettings::positionFollowModeComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="129" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a82cf26cfd1d6296a619cd4f0018d6068" prot="private" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label QfSettings::positionFollowModeTipLabel</definition>
+        <argsstring></argsstring>
+        <name>positionFollowModeTipLabel</name>
+        <qualifiedname>QfSettings::positionFollowModeTipLabel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="130" column="7" bodyfile="src/app/qml/QfSettings.qml" bodystart="130" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a0b129fbbc83bf9175736d53f3a581751" prot="private" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label QfSettings::measureLabel</definition>
+        <argsstring></argsstring>
+        <name>measureLabel</name>
+        <qualifiedname>QfSettings::measureLabel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="131" column="7" bodyfile="src/app/qml/QfSettings.qml" bodystart="131" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1af9a7a7df5c93487de25c313a41fef895" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::measureComboBox</definition>
+        <argsstring></argsstring>
+        <name>measureComboBox</name>
+        <qualifiedname>QfSettings::measureComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="132" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="132" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a70e0c3c6879ffc4d21e4be6801ea5b0a" prot="private" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label QfSettings::measureTipLabel</definition>
+        <argsstring></argsstring>
+        <name>measureTipLabel</name>
+        <qualifiedname>QfSettings::measureTipLabel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="133" column="7" bodyfile="src/app/qml/QfSettings.qml" bodystart="133" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1af068299318462e70fc6c1bd6902a5a8a" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::accuracyIndicator</definition>
+        <argsstring></argsstring>
+        <name>accuracyIndicator</name>
+        <qualifiedname>QfSettings::accuracyIndicator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="134" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="134" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1aaf3a05c1f9ea88fd40c4d9a28ab05a6e" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::accuracyBadInput</definition>
+        <argsstring></argsstring>
+        <name>accuracyBadInput</name>
+        <qualifiedname>QfSettings::accuracyBadInput</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="135" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a197920e16d64ba2de4052e897cb6a3a5" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::accuracyExcellentInput</definition>
+        <argsstring></argsstring>
+        <name>accuracyExcellentInput</name>
+        <qualifiedname>QfSettings::accuracyExcellentInput</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="136" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="136" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a75c2636178f085cc8c1fb3f7e948c057" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::accuracyRequirement</definition>
+        <argsstring></argsstring>
+        <name>accuracyRequirement</name>
+        <qualifiedname>QfSettings::accuracyRequirement</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="137" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="137" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a0145c1a4c6c413487e5aa271f47a1c12" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::averagedPositioning</definition>
+        <argsstring></argsstring>
+        <name>averagedPositioning</name>
+        <qualifiedname>QfSettings::averagedPositioning</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="138" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="138" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a0d5509ea1999a076ef5d45ba2d1e7404" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::averagedPositioningMinimumCount</definition>
+        <argsstring></argsstring>
+        <name>averagedPositioningMinimumCount</name>
+        <qualifiedname>QfSettings::averagedPositioningMinimumCount</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="139" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="139" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a37c8b6e799f27fd6068ee30b8e749299" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::averagedPositioningAutomaticEnd</definition>
+        <argsstring></argsstring>
+        <name>averagedPositioningAutomaticEnd</name>
+        <qualifiedname>QfSettings::averagedPositioningAutomaticEnd</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="140" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="140" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a26cd8b2045726d51d45d447eeab45245" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::antennaHeightActivated</definition>
+        <argsstring></argsstring>
+        <name>antennaHeightActivated</name>
+        <qualifiedname>QfSettings::antennaHeightActivated</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="141" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="141" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a0df35bc535a5417d5567d18c30670c9a" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfTextField" kindref="compound">QfTextField</ref></type>
+        <definition>QfTextField QfSettings::antennaHeightInput</definition>
+        <argsstring></argsstring>
+        <name>antennaHeightInput</name>
+        <qualifiedname>QfSettings::antennaHeightInput</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="142" column="13" bodyfile="src/app/qml/QfSettings.qml" bodystart="142" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a62e5c5c225acf481650fa63d64c67d20" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::skipAltitudeCorrectionSwitch</definition>
+        <argsstring></argsstring>
+        <name>skipAltitudeCorrectionSwitch</name>
+        <qualifiedname>QfSettings::skipAltitudeCorrectionSwitch</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="143" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="143" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1ad3269cc000df4667baf3310e2b9024cd" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfComboBox" kindref="compound">QfComboBox</ref></type>
+        <definition>QfComboBox QfSettings::verticalGridShiftComboBox</definition>
+        <argsstring></argsstring>
+        <name>verticalGridShiftComboBox</name>
+        <qualifiedname>QfSettings::verticalGridShiftComboBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="144" column="12" bodyfile="src/app/qml/QfSettings.qml" bodystart="144" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a4ad812c4b9bc9c4f73c03f36e2f6b67f" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfSwitch" kindref="compound">QfSwitch</ref></type>
+        <definition>QfSwitch QfSettings::positionLogging</definition>
+        <argsstring></argsstring>
+        <name>positionLogging</name>
+        <qualifiedname>QfSettings::positionLogging</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="145" column="10" bodyfile="src/app/qml/QfSettings.qml" bodystart="145" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1af062d7e8a4e841484aa8fd588752ac80" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfVariableEditor" kindref="compound">QfVariableEditor</ref></type>
+        <definition>QfVariableEditor QfSettings::variableEditor</definition>
+        <argsstring></argsstring>
+        <name>variableEditor</name>
+        <qualifiedname>QfSettings::variableEditor</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="146" column="18" bodyfile="src/app/qml/QfSettings.qml" bodystart="146" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1a6b11e8d2cc8428423c4aa707d5ed099e" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfPositioningDeviceSettings" kindref="compound">QfPositioningDeviceSettings</ref></type>
+        <definition>QfPositioningDeviceSettings QfSettings::positioningDeviceSettings</definition>
+        <argsstring></argsstring>
+        <name>positioningDeviceSettings</name>
+        <qualifiedname>QfSettings::positioningDeviceSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="147" column="29" bodyfile="src/app/qml/QfSettings.qml" bodystart="147" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classQfSettings_1abb9bee72e7631c0e88b4b042553d15fe" prot="private" static="no" mutable="no">
+        <type><ref refid="classQfPositioningNtripSettings" kindref="compound">QfPositioningNtripSettings</ref></type>
+        <definition>QfPositioningNtripSettings QfSettings::positioningNtripSettings</definition>
+        <argsstring></argsstring>
+        <name>positioningNtripSettings</name>
+        <qualifiedname>QfSettings::positioningNtripSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="148" column="28" bodyfile="src/app/qml/QfSettings.qml" bodystart="148" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="signal">
+      <memberdef kind="signal" id="classQfSettings_1a3d181bbbe8fbb93ea4456ca83e3f9871" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void QfSettings::finished</definition>
+        <argsstring>()</argsstring>
+        <name>finished</name>
+        <qualifiedname>QfSettings::finished</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="13" column="17"/>
+      </memberdef>
+      <memberdef kind="signal" id="classQfSettings_1ac84a1527af904bc270f0ec3efb6ec839" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void QfSettings::settingChanged</definition>
+        <argsstring>(const QString &amp;key)</argsstring>
+        <name>settingChanged</name>
+        <qualifiedname>QfSettings::settingChanged</qualifiedname>
+        <param>
+          <type>const QString &amp;</type>
+          <declname>key</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/core/qfsettings.h" line="62" column="10"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classQfSettings_1a62325c4520e0a75d3a3e13ea7c790779" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void QfSettings::reset</definition>
+        <argsstring>()</argsstring>
+        <name>reset</name>
+        <qualifiedname>QfSettings::reset</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="89" column="6"/>
+      </memberdef>
+      <memberdef kind="function" id="classQfSettings_1a5c443bfe7aa301caed274dd09a92384a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void QfSettings::applyProxySettings</definition>
+        <argsstring>()</argsstring>
+        <name>applyProxySettings</name>
+        <qualifiedname>QfSettings::applyProxySettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/app/qml/QfSettings.qml" line="91" column="6"/>
+      </memberdef>
+      <memberdef kind="function" id="classQfSettings_1ade6a8d40704100524ed4e10ccaec86e8" prot="public" static="no" const="no" explicit="yes" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>QfSettings::QfSettings</definition>
+        <argsstring>(QObject *parent=nullptr)</argsstring>
+        <name>QfSettings</name>
+        <qualifiedname>QfSettings::QfSettings</qualifiedname>
+        <param>
+          <type>QObject *</type>
+          <declname>parent</declname>
+          <defval>nullptr</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/core/qfsettings.h" line="31" column="14" bodyfile="src/core/qfsettings.cpp" bodystart="21" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classQfSettings_1aa5f822fb7f1a6c0ddd35d46f3e53ae43" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Q_INVOKABLE void</type>
+        <definition>void QfSettings::setValue</definition>
+        <argsstring>(const QString &amp;key, const QVariant &amp;value)</argsstring>
+        <name>setValue</name>
+        <qualifiedname>QfSettings::setValue</qualifiedname>
+        <param>
+          <type>const QString &amp;</type>
+          <declname>key</declname>
+        </param>
+        <param>
+          <type>const QVariant &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/core/qfsettings.h" line="33" column="22" bodyfile="src/core/qfsettings.cpp" bodystart="26" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classQfSettings_1a764e7648acbe5b7fad66faaaad90c595" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Q_INVOKABLE QVariant</type>
+        <definition>QVariant QfSettings::value</definition>
+        <argsstring>(const QString &amp;key, const QVariant &amp;defaultValue)</argsstring>
+        <name>value</name>
+        <qualifiedname>QfSettings::value</qualifiedname>
+        <param>
+          <type>const QString &amp;</type>
+          <declname>key</declname>
+        </param>
+        <param>
+          <type>const QVariant &amp;</type>
+          <declname>defaultValue</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/core/qfsettings.h" line="35" column="26" bodyfile="src/core/qfsettings.cpp" bodystart="32" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classQfSettings_1a5c49cf6b551f10488a74f32c3ffd0c81" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Q_INVOKABLE bool</type>
+        <definition>bool QfSettings::valueBool</definition>
+        <argsstring>(const QString &amp;key, bool defaultValue)</argsstring>
+        <name>valueBool</name>
+        <qualifiedname>QfSettings::valueBool</qualifiedname>
+        <param>
+          <type>const QString &amp;</type>
+          <declname>key</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>defaultValue</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Properly evaluates the returned value to be boolean. If the normal value() is used instead, a string &quot;true&quot; or &quot;false&quot; will be returned which will be evaluated to true either way by JS. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/core/qfsettings.h" line="42" column="22" bodyfile="src/core/qfsettings.cpp" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classQfSettings_1a34880aec82816c6acdee78f3745b8b92" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Q_INVOKABLE int</type>
+        <definition>int QfSettings::valueInt</definition>
+        <argsstring>(const QString &amp;key, int defaultValue)</argsstring>
+        <name>valueInt</name>
+        <qualifiedname>QfSettings::valueInt</qualifiedname>
+        <param>
+          <type>const QString &amp;</type>
+          <declname>key</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>defaultValue</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Properly evaluates the returned value to be int. If the normal value() is used instead, a string &quot;1&quot; or &quot;-456&quot; will be returned. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/core/qfsettings.h" line="49" column="21" bodyfile="src/core/qfsettings.cpp" bodystart="42" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classQfSettings_1ac36dc17495906f7f62180b54899f5250" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Q_INVOKABLE void</type>
+        <definition>void QfSettings::remove</definition>
+        <argsstring>(const QString &amp;key)</argsstring>
+        <name>remove</name>
+        <qualifiedname>QfSettings::remove</qualifiedname>
+        <param>
+          <type>const QString &amp;</type>
+          <declname>key</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Removes the given <emphasis>key</emphasis> from settings. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/core/qfsettings.h" line="54" column="22" bodyfile="src/core/qfsettings.cpp" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classQfSettings_1a5f5f1f8b604c008bdc8cab292dd64969" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Q_INVOKABLE void</type>
+        <definition>void QfSettings::sync</definition>
+        <argsstring>()</argsstring>
+        <name>sync</name>
+        <qualifiedname>QfSettings::sync</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Writes any unsaved changes to permanent storage, and reloads the settings. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/core/qfsettings.h" line="59" column="22" bodyfile="src/core/qfsettings.cpp" bodystart="52" bodyend="55"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Page</label>
+      </node>
+      <node id="3">
+        <label>QSettings</label>
+      </node>
+      <node id="1">
+        <label>QfSettings</label>
+        <link refid="classQfSettings"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Page</label>
+      </node>
+      <node id="3">
+        <label>QSettings</label>
+      </node>
+      <node id="1">
+        <label>QfSettings</label>
+        <link refid="classQfSettings"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="src/app/qml/QfSettings.qml" line="10" column="1" bodyfile="src/app/qml/QfSettings.qml" bodystart="10" bodyend="149"/>
+    <listofallmembers>
+      <member refid="classQfSettings_1aaf3a05c1f9ea88fd40c4d9a28ab05a6e" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>accuracyBadInput</name></member>
+      <member refid="classQfSettings_1a197920e16d64ba2de4052e897cb6a3a5" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>accuracyExcellentInput</name></member>
+      <member refid="classQfSettings_1af068299318462e70fc6c1bd6902a5a8a" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>accuracyIndicator</name></member>
+      <member refid="classQfSettings_1a75c2636178f085cc8c1fb3f7e948c057" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>accuracyRequirement</name></member>
+      <member refid="classQfSettings_1a98baa0a5dd6b72e994bad33463621dbc" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>advancedSettingsModel</name></member>
+      <member refid="classQfSettings_1a26cd8b2045726d51d45d447eeab45245" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>antennaHeightActivated</name></member>
+      <member refid="classQfSettings_1a0df35bc535a5417d5567d18c30670c9a" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>antennaHeightInput</name></member>
+      <member refid="classQfSettings_1a857f07d8b87b4fe3b88dc321623668c3" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>appearanceComboBox</name></member>
+      <member refid="classQfSettings_1a5c443bfe7aa301caed274dd09a92384a" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>applyProxySettings</name></member>
+      <member refid="classQfSettings_1aa8874054c603da9cd3bd6575c9afd739" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>authenticationConfigurationsListView</name></member>
+      <member refid="classQfSettings_1a951cd9e7f77e97d763702a673ee09996" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>autoOpenFormSingleIdentify</name></member>
+      <member refid="classQfSettings_1a6689b65044fbc942324a5691e11998f3" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>autoSave</name></member>
+      <member refid="classQfSettings_1ac84612f80bd3f04daa8fb01ae9ab8fc4" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>autoZoomToIdentifiedFeature</name></member>
+      <member refid="classQfSettings_1a0145c1a4c6c413487e5aa271f47a1c12" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>averagedPositioning</name></member>
+      <member refid="classQfSettings_1a37c8b6e799f27fd6068ee30b8e749299" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>averagedPositioningAutomaticEnd</name></member>
+      <member refid="classQfSettings_1a0d5509ea1999a076ef5d45ba2d1e7404" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>averagedPositioningMinimumCount</name></member>
+      <member refid="classQfSettings_1a7413f638e36232eeedf7bcf8833e16db" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>bar</name></member>
+      <member refid="classQfSettings_1aae1e6ae8d28ae77bd21bebcdd8d0a450" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>barColumn</name></member>
+      <member refid="classQfSettings_1a45495bcb775ae516e3aa297b724cf859" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>canvasSettingsModel</name></member>
+      <member refid="classQfSettings_1a00e48796573e142f89be582df9ff2b7d" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>connectButton</name></member>
+      <member refid="classQfSettings_1aabddf0e7512fdc0364b5d6bfa9ba2db2" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>currentPanel</name></member>
+      <member refid="classQfSettings_1a968e1b032639a6a455305d367775b5cf" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>digitizingEditingSettingsModel</name></member>
+      <member refid="classQfSettings_1a064327f21a2b819bf5495d4404c64a4d" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>digitizingVolumeKeys</name></member>
+      <member refid="classQfSettings_1abc2c2b5b2e82c045ccd6032ce933cef8" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>enableInfoCollection</name></member>
+      <member refid="classQfSettings_1a347f5065068f6a4cd48234cd0b5be4fe" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>enableMapRotation</name></member>
+      <member refid="classQfSettings_1aa44cec1ee951003c018f8cf9f5239ef1" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>enableNtripClient</name></member>
+      <member refid="classQfSettings_1ae3e2ed2f4cbfb42fba2b7a8ae46eb01e" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>fingerTapDigitizing</name></member>
+      <member refid="classQfSettings_1a3d181bbbe8fbb93ea4456ca83e3f9871" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>finished</name></member>
+      <member refid="classQfSettings_1a297c455a36fb516ffced09469884319a" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>focus</name></member>
+      <member refid="classQfSettings_1a2adcf57783ca9a7aa7aa36d1b5448b11" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>fontScaleComboBox</name></member>
+      <member refid="classQfSettings_1a1b0dfa48d241ce7e72798f896cf2fd22" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>fullScreenIdentifyView</name></member>
+      <member refid="classQfSettings_1a74d672bedd2bf83131606f6aa03911d6" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>generalSettingsGrid</name></member>
+      <member refid="classQfSettings_1ac879021fab4304ec609288d0482bc078" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>interfaceSettingsModel</name></member>
+      <member refid="classQfSettings_1af01878d6b214a53dee0b248186359812" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>languageComboBox</name></member>
+      <member refid="classQfSettings_1a0b44e77c08fc704b96c4ef286455187e" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>leftPadding</name></member>
+      <member refid="classQfSettings_1a2b6e212782fd893c25e4c2f2646c972d" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>line</name></member>
+      <member refid="classQfSettings_1a5b4bc1712edc4a131898aa54e9701412" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>listItem</name></member>
+      <member refid="classQfSettings_1a70a0aceee5f5c92bdc2378c4c118ed49" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>locatorKeepScale</name></member>
+      <member refid="classQfSettings_1af9a7a7df5c93487de25c313a41fef895" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>measureComboBox</name></member>
+      <member refid="classQfSettings_1a0b129fbbc83bf9175736d53f3a581751" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>measureLabel</name></member>
+      <member refid="classQfSettings_1a70e0c3c6879ffc4d21e4be6801ea5b0a" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>measureTipLabel</name></member>
+      <member refid="classQfSettings_1a3ab345f5e3473c322e83d6721a59b5d0" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>mouseAsTouchScreen</name></member>
+      <member refid="classQfSettings_1a5dfc906a8b84c30f6656d4e9a3c15de0" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>nativeCamera2</name></member>
+      <member refid="classQfSettings_1a5f426c77cbcbaaa0cea0a9e0d8032971" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>ntripFeedbackLayout</name></member>
+      <member refid="classQfSettings_1a286d952a68cde50fe0d5b00e583def3b" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>ntripIndicator</name></member>
+      <member refid="classQfSettings_1a3731d908a7c5f5e29fbd5c381e6d5042" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>numericalDigitizingInformation</name></member>
+      <member refid="classQfSettings_1aeaf2c7e76572f5993ba27acc923f9d9b" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>onCompleted</name></member>
+      <member refid="classQfSettings_1ab554a527f67ea08d16ccb2b69411f4ca" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>onProxyEnabledChanged</name></member>
+      <member refid="classQfSettings_1a17bbc5db92e95cc2b67d2ca4545448b1" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>onProxyExcludedUrlsChanged</name></member>
+      <member refid="classQfSettings_1ad49132fc95bf356aa46fb75a0ce6ffa4" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>onProxyHostChanged</name></member>
+      <member refid="classQfSettings_1af011fb831f2a1bb16173605bfbf3fcea" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>onProxyPasswordChanged</name></member>
+      <member refid="classQfSettings_1aa1636f74c0dc836ba7a5e41ae19d6945" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>onProxyPortChanged</name></member>
+      <member refid="classQfSettings_1ab3fc4d32d9a6dff80e7457eaa5b766a6" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>onProxyTypeChanged</name></member>
+      <member refid="classQfSettings_1a72cc1a10e1301b8cc7841054627c847c" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>onProxyUserChanged</name></member>
+      <member refid="classQfSettings_1a8d17dd02b165a37a6c3b02c38ac65349" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>positionFollowModeComboBox</name></member>
+      <member refid="classQfSettings_1af2769197926a5575ba1846c7a90b48df" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>positionFollowModeLabel</name></member>
+      <member refid="classQfSettings_1a82cf26cfd1d6296a619cd4f0018d6068" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>positionFollowModeTipLabel</name></member>
+      <member refid="classQfSettings_1a6a57a9f620a16cce3880983403d7a281" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>positioningDeviceComboBox</name></member>
+      <member refid="classQfSettings_1a6b11e8d2cc8428423c4aa707d5ed099e" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>positioningDeviceSettings</name></member>
+      <member refid="classQfSettings_1a548f4c1d4a8bca1db5441bec5e491692" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>positioningGrid</name></member>
+      <member refid="classQfSettings_1abb9bee72e7631c0e88b4b042553d15fe" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>positioningNtripSettings</name></member>
+      <member refid="classQfSettings_1a4ad812c4b9bc9c4f73c03f36e2f6b67f" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>positionLogging</name></member>
+      <member refid="classQfSettings_1a53b64da73b4e54c4bce855451f846a0b" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>previewJobsEnabled</name></member>
+      <member refid="classQfSettings_1aa3468b4361496beb1ce3769ee318dd15" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>proxyEnabled</name></member>
+      <member refid="classQfSettings_1ab0f3e76f2e77229fad5882b7f5489ec8" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>proxyEnabledSwitch</name></member>
+      <member refid="classQfSettings_1aa0901b82553139be20a90bb9a73bd180" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>proxyExcludedUrls</name></member>
+      <member refid="classQfSettings_1a5f7a512445d1c5809a41bb27e01c19a9" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>proxyExcludedUrlsField</name></member>
+      <member refid="classQfSettings_1a41c48c775a23260bf7ca3a059608f4fc" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>proxyHost</name></member>
+      <member refid="classQfSettings_1a75a272303acb24cd4e0c733e786ac5c8" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>proxyHostField</name></member>
+      <member refid="classQfSettings_1a7796fbeef4aaf0016551a9efb2920a3e" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>proxyPassword</name></member>
+      <member refid="classQfSettings_1aa05961ca4b664ad370878a8a448a6591" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>proxyPasswordField</name></member>
+      <member refid="classQfSettings_1a64e315d0783b3761591878450147f54c" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>proxyPort</name></member>
+      <member refid="classQfSettings_1a2fe9aa9c8a999c76fec272649d10a6f0" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>proxyPortField</name></member>
+      <member refid="classQfSettings_1af7a040db802d444eb12670f0763c430d" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>proxySettingsLoaded</name></member>
+      <member refid="classQfSettings_1a262cb4e3c22b57480380a9e9b89f9a43" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>proxyType</name></member>
+      <member refid="classQfSettings_1a8d136e9b54eea145c18f035313259a1d" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>proxyTypeComboBox</name></member>
+      <member refid="classQfSettings_1abc48f48cd81074bd88a37199647855e6" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>proxyUser</name></member>
+      <member refid="classQfSettings_1a97dbc83b659acc834cb4939d0999b1a0" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>proxyUserField</name></member>
+      <member refid="classQfSettings_1ade6a8d40704100524ed4e10ccaec86e8" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>QfSettings</name></member>
+      <member refid="classQfSettings_1ad20534f3ee08913203e4b504e98a7b76" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>quality</name></member>
+      <member refid="classQfSettings_1ad77a2755163aa027e60c374e781a1263" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>registry</name></member>
+      <member refid="classQfSettings_1ac36dc17495906f7f62180b54899f5250" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>remove</name></member>
+      <member refid="classQfSettings_1a4da700b1ccc776b0c01aba0de4632c26" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>renderingQualityComboBox</name></member>
+      <member refid="classQfSettings_1a62325c4520e0a75d3a3e13ea7c790779" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>reset</name></member>
+      <member refid="classQfSettings_1a9ee0b03688addefa45eac249c8001aa2" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>rightPadding</name></member>
+      <member refid="classQfSettings_1ac84a1527af904bc270f0ec3efb6ec839" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>settingChanged</name></member>
+      <member refid="classQfSettings_1aa5f822fb7f1a6c0ddd35d46f3e53ae43" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>setValue</name></member>
+      <member refid="classQfSettings_1a261271064a9526b923eb672c8f77371a" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>showBookmarks</name></member>
+      <member refid="classQfSettings_1a7b7522e7b4f9018e3f0677fbdb7bef42" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>showNtripSettings</name></member>
+      <member refid="classQfSettings_1ad2da26ce703b6833a232b53d9a0488e4" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>showPluginManagerSettings</name></member>
+      <member refid="classQfSettings_1ab8c90ba89ba8fcf3438a78a2b20f3d89" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>showPositionInformation</name></member>
+      <member refid="classQfSettings_1ad4f77be1d2d534f00ae32694f2570fa5" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>showScaleBar</name></member>
+      <member refid="classQfSettings_1a3c9580d96aeb4900de7bd6c8fcfc9eb2" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>showSearchBarSettings</name></member>
+      <member refid="classQfSettings_1ad77bfabc0d2a66e6ab2b401dd557f77a" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>showZoomControls</name></member>
+      <member refid="classQfSettings_1a62e5c5c225acf481650fa63d64c67d20" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>skipAltitudeCorrectionSwitch</name></member>
+      <member refid="classQfSettings_1a1f94cdf0f5dcbd7d54f6da6aa4b29b12" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>slider</name></member>
+      <member refid="classQfSettings_1a5e7be234721e1e5bb596ba45ea7928a1" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>snapToCommonAngleDegrees</name></member>
+      <member refid="classQfSettings_1ad8c1cc4c16aa723669b0d2d7481fe44b" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>snapToCommonAngleIsEnabled</name></member>
+      <member refid="classQfSettings_1a7525298c6a31b880e81ce58af6b015b4" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>snapToCommonAngleIsRelative</name></member>
+      <member refid="classQfSettings_1adce239f59ceaa659719be7c12e50623e" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>snapToCommonAngleTolerance</name></member>
+      <member refid="classQfSettings_1a426003c8e46552f39b2b4ef2b4151b21" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>swipeView</name></member>
+      <member refid="classQfSettings_1a5f5f1f8b604c008bdc8cab292dd64969" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>sync</name></member>
+      <member refid="classQfSettings_1ae746d1d712fd45b15dc7c67362f12724" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>toggle</name></member>
+      <member refid="classQfSettings_1a764e7648acbe5b7fad66faaaad90c595" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>value</name></member>
+      <member refid="classQfSettings_1a5c49cf6b551f10488a74f32c3ffd0c81" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>valueBool</name></member>
+      <member refid="classQfSettings_1a34880aec82816c6acdee78f3745b8b92" prot="public" virt="non-virtual"><scope>QfSettings</scope><name>valueInt</name></member>
+      <member refid="classQfSettings_1af062d7e8a4e841484aa8fd588752ac80" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>variableEditor</name></member>
+      <member refid="classQfSettings_1ad3269cc000df4667baf3310e2b9024cd" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>verticalGridShiftComboBox</name></member>
+      <member refid="classQfSettings_1ab582d0d890a8709c1ca1c3074bf583ad" prot="private" virt="non-virtual"><scope>QfSettings</scope><name>visible</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
